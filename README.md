@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Hamsa-R
+- 👋 Hello
+<!-- - , I’m @Hamsa-R -->
 <!-- - 👀 I’m interested in Angular,Java,
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
